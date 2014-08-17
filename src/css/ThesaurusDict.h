@@ -3,6 +3,7 @@
 
 #include <cstring>
 #include <string>
+#include <ext/hash_map>
 
 namespace css {
 //using namespace CRFPP;
